@@ -1,2 +1,5 @@
 # MqttFuzzingBroker
-mqtt client fuzzing with broker(fuzzer)
+
+How To install:
+
+npm install
